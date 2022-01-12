@@ -15,10 +15,11 @@ Solution :
    ~(Team Leader) 
     
    Anushka Bishnoi
-   (B-Tech CSE w/ splz Cyber Security)
+    (B-Tech CSE w/ splz Cyber Security)
    
  Technologies Used :
  
  ~ HTML - for basic structure of the website
+ 
  ~ CSS - design of the website
  
