@@ -1,4 +1,4 @@
-# Exterminators_
+# Exterminators
 
 Problem :
          Full-stop on shopping due to pandemic
