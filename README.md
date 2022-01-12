@@ -9,6 +9,7 @@ Solution :
     we hope you like it! ;)
     
  Team Members :
+ 
    Pragya Shah         
    (B-Tech CSE w/ splz Cloud Computing)   
    ~(Team Leader) 
@@ -17,6 +18,7 @@ Solution :
    (B-Tech CSE w/ splz Cyber Security)
    
  Technologies Used :
+ 
  ~ HTML - for basic structure of the website
  ~ CSS - design of the website
  
